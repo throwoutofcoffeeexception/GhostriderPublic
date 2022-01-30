@@ -74,7 +74,7 @@ body {
 
 #WhatsYourName {
     position: absolute;
-    visibility: hidden;
+    visibility: visible;
     font-size: 50px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow', sans-serif;
     font-weight: bold;
@@ -116,7 +116,7 @@ body {
 
 #Highscores {
     position: absolute;
-    visibility: visible;
+    visibility: hidden;
     font-size: 40px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow', sans-serif;
     color: whitesmoke;
